@@ -1,0 +1,22 @@
+body{
+    background-image: url("dbda142cba3b3a225053138d4bf9e211.jpg");
+    background-size: cover;
+    font-family: "Playfair Display", serif;
+}
+
+button {
+    padding: 10px 24px;
+    background-color: pink;
+}
+
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    bottom: 5px;
+}
+
+.header_div{
+   background-color: palevioletred;
+}
